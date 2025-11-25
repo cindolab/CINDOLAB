@@ -1,14 +1,14 @@
-# Ngroso - Hotel Kreatif & Investasi Bitcoin
+# Ngemiel - Hotel Kreatif & Investasi Bitcoin
 
-![Ngroso Banner](https://r2.primal.net/cache/8/dd/96/8dd96aacddf188ba3d828a63e484911b33be9b224b70326c1998afd862ad2ddd.jpg)
+![Ngemiel Banner](https://r2.primal.net/cache/8/dd/96/8dd96aacddf188ba3d828a63e484911b33be9b224b70326c1998afd862ad2ddd.jpg)
 
 > **Kemewahan Bertemu Bitcoin**  
 > Hotel premium dengan peluang investasi saham berbasis **smart contract** — transparan, aman, dan menguntungkan.
 ---
 
-## Tentang Ngroso
+## Tentang Ngemiel
 
-**Ngroso** adalah proyek inovatif yang menggabungkan:
+**Ngemiel** adalah proyek inovatif yang menggabungkan:
 - **Hospitality kelas dunia** (hotel sederhana hingga resor bintang 5)
 - **Investasi cerdas** melalui saham berbasis bitcoin
 - **Smart contract** untuk bagi hasil otomatis & transparan
@@ -31,12 +31,12 @@ Kami hadir untuk tamu yang mencari kemewahan — dan investor yang mencari masa 
 
 ## Demo Website
 
-[https://ngroso.id](https://ngroso.id) *(coming soon)*  
+[https://ngemiel.id](https://ngemiel.id) *(coming soon)*  
 Atau coba versi lokal:
 
 ```bash
-git clone https://github.com/ngroso/ngroso.git
-cd ngroso
+git clone https://github.com/ngemiel/ngemiel.git
+cd ngemiel
 open index.html
 ```
 
@@ -44,18 +44,18 @@ open index.html
 
 | Path | Deskripsi | Link |
 |------|-----------|------|
-| `/` | Root proyek | [Lihat di GitHub](https://github.com/ngroso/ngroso) |
-| `index.html` | Halaman utama website | [index.html](https://github.com/ngroso/ngroso/blob/main/index.html) |
-| `styles.css` | Styling global (warna, layout, responsif) | [styles.css](https://github.com/ngroso/ngroso/blob/main/styles.css) |
-| `script.js` | Logika interaktif: scroll, chatbot, modal | [script.js](https://github.com/ngroso/ngroso/blob/main/script.js) |
-| `README.md` | Dokumentasi proyek (ini) | [README.md](https://github.com/ngroso/ngroso/blob/main/README.md) |
-| `LICENSE` | Lisensi MIT (open source) | [LICENSE](https://github.com/ngroso/ngroso/blob/main/LICENSE) |
-| `CI-Guideline-Ngroso.pdf` | Panduan Corporate Identity | [CI-Guideline-Ngroso.pdf](https://github.com/ngroso/ngroso/blob/main/CI-Guideline-Ngroso.pdf) |
-| `assets/` | Folder aset visual | [assets/](https://github.com/ngroso/ngroso/tree/main/assets) |
-| `assets/cindo.svg` | Logo sementara (akan diganti) | [cindo.svg](https://github.com/ngroso/ngroso/blob/main/assets/cindo.svg) |
-| `assets/newsui-logo.svg` | Logo resmi Newsui (baru) | [ngroso-logo.svg](https://github.com/ngroso/ngroso/blob/main/assets/ngroso-logo.svg) |
-| `assets/welcome-icon.png` | Ikon banner selamat datang | [welcome-icon.png](https://github.com/ngroso/ngroso/blob/main/assets/welcome-icon.png) |
-| `assets/favicon.ico` | Favicon browser | [favicon.ico](https://github.com/ngroso/ngroso/blob/main/assets/favicon.ico) |
+| `/` | Root proyek | [Lihat di GitHub](https://github.com/ngemiel/ngemiel) |
+| `index.html` | Halaman utama website | [index.html](https://github.com/ngemiel/ngemiel/blob/main/index.html) |
+| `styles.css` | Styling global (warna, layout, responsif) | [styles.css](https://github.com/ngemiel/ngemiel/blob/main/styles.css) |
+| `script.js` | Logika interaktif: scroll, chatbot, modal | [script.js](https://github.com/ngemiel/ngemiel/blob/main/script.js) |
+| `README.md` | Dokumentasi proyek (ini) | [README.md](https://github.com/ngemiel/ngemiel/blob/main/README.md) |
+| `LICENSE` | Lisensi MIT (open source) | [LICENSE](https://github.com/ngemiel/ngemiel/blob/main/LICENSE) |
+| `CI-Guideline-Ngroso.pdf` | Panduan Corporate Identity | [CI-Guideline-Ngroso.pdf](https://github.com/ngemiel/ngemiel/blob/main/CI-Guideline-Ngemiel.pdf) |
+| `assets/` | Folder aset visual | [assets/](https://github.com/ngroso/ngemiel/tree/main/assets) |
+| `assets/cindo.svg` | Logo sementara (akan diganti) | [cindo.svg](https://github.com/ngemiel/ngemiel/blob/main/assets/cindo.svg) |
+| `assets/newsui-logo.svg` | Logo resmi Newsui (baru) | [ngemiel.svg](https://github.com/ngemiel/ngemiel/blob/main/assets/ngemiel.svg) |
+| `assets/welcome-icon.png` | Ikon banner selamat datang | [welcome-icon.png](https://github.com/ngemiel/ngemiel/blob/main/assets/welcome-icon.png) |
+| `assets/favicon.ico` | Favicon browser | [favicon.ico](https://github.com/ngemiel/ngemiel/blob/main/assets/favicon.ico) |
 
 ---
 
