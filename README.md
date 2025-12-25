@@ -1,14 +1,14 @@
-# Ngemiel - Hotel Kreatif & Investasi Bitcoin
+# BitGol - Hotel Kreatif & Investasi Bitcoin
 
-![Ngemiel Banner](https://r2.primal.net/cache/8/dd/96/8dd96aacddf188ba3d828a63e484911b33be9b224b70326c1998afd862ad2ddd.jpg)
+![Bitgol Banner](https://r2.primal.net/cache/8/dd/96/8dd96aacddf188ba3d828a63e484911b33be9b224b70326c1998afd862ad2ddd.jpg)
 
 > **Kemewahan Bertemu Bitcoin**  
 > Hotel premium dengan peluang investasi saham berbasis **smart contract** — transparan, aman, dan menguntungkan.
 ---
 
-## Tentang Ngemiel
+## Tentang Bitgol
 
-**Ngemiel** adalah proyek inovatif yang menggabungkan:
+**Bitgol** adalah proyek inovatif yang menggabungkan:
 - **Hospitality kelas dunia** (hotel sederhana hingga resor bintang 5)
 - **Investasi cerdas** melalui saham berbasis bitcoin
 - **Smart contract** untuk bagi hasil otomatis & transparan
