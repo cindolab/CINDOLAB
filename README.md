@@ -91,6 +91,12 @@ open index.html
 
 ---
 
+## Calon Anggota Cindo Lab Cabang Malang
+
+![Cindo Lab Banner](https://r2.primal.net/cache/e/7f/c9/e7fc986216b10a501c613a85faf6ee9cce0509bf9ab570f6e7db96a8681e35c9.jpg)
+
+---
+
 ## 📬 Kontak
 📍 Jl. Panglima Sudirman No. 19,
    - Bandarkedungmulyo – Jombang,
