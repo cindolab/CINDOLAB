@@ -2,6 +2,8 @@
 
 ![Cindo Lab Banner](https://r2.primal.net/cache/8/dd/96/8dd96aacddf188ba3d828a63e484911b33be9b224b70326c1998afd862ad2ddd.jpg)
 
+![Cindo Lab](https://images.ctfassets.net/aukesvz1i7g8/4I9nMF37Ttf0NogKYsTNlv/6e4457f1e80ee6baf49ea05227ef8bf7/22C0217_001.jpg)
+
 > **Kemewahan Bertemu Bitcoin**  
 > Hotel premium dengan peluang investasi saham berbasis **smart contract** — transparan, aman, dan menguntungkan.
 ---
