@@ -1,4 +1,4 @@
-# CindoLab - Laboratorium Cuan Indonesia
+# CindoLab - Laboratorium Code Indonesia
 
 ![CindoLab Banner](https://r2.primal.net/cache/8/dd/96/8dd96aacddf188ba3d828a63e484911b33be9b224b70326c1998afd862ad2ddd.jpg)
 
