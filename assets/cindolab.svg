@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300">
+  <!-- VERSI HORIZONTAL (Untuk Header / Email)-->
+  <rect width="1200" height="300" fill="#0052FF"/>
+  <g transform="translate(150,150) rotate(45) translate(-150,-150)">
+    <rect x="70" y="70" width="160" height="160" rx="30" fill="#FFFFFF"/>
+    <rect x="110" y="110" width="80" height="80" rx="15" fill="#0052FF"/>
+  </g>
+  <text x="280" y="185" font-family="Arial, sans-serif" font-size="100" font-weight="bold" fill="#FFFFFF">CindoLab</text>
+</svg>
