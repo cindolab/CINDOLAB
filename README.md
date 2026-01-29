@@ -80,6 +80,7 @@ open index.html
 | Instagram      | [instagram.com/cindolabot](https://www.instagram.com/cindolabot/)    |
 | X (Twitter)    | [@cindolab](https://x.com/cindolab)                                  |
 | Facebook       | [facebook.com/cindolab](https://www.facebook.com/cindolab)           |
+| GitLab         | [gitlab.com/cindolab](https://gitlab.com/cindolab)                   |
 
 ---
 
